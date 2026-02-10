@@ -1,2 +1,2 @@
 # TERMS-AND-CONDITION
-..
+
